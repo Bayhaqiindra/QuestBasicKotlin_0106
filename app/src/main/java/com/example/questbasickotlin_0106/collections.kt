@@ -97,7 +97,7 @@ fun ContohList() {
         val shapesLocked: Map<String, Int> = shape
         println(shapesLocked)
     }
-        fun maint() {
+        fun main() {
             ContohList()
             ContohSet()
             ContohMap()
